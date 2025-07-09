@@ -123,3 +123,15 @@ Supports sorting and full data exploration.
   - **Constituency Details**: Candidate-wise insights and vote margins
 - Dashboards were **interactive**, slicer-driven, and **visually intuitive** for end-users.
 
+![Screenshot 2025-07-09 112948](https://github.com/user-attachments/assets/392d2444-b06d-4faf-abbf-6616a64bb4b1)
+![Screenshot 2025-07-09 113007](https://github.com/user-attachments/assets/7eabad82-3dfc-4eb0-b09a-be999c58a632)
+![Screenshot 2025-07-09 113417](https://github.com/user-attachments/assets/de792168-2784-4647-b042-f35e3f978b00)
+![Screenshot 2025-07-09 113127](https://github.com/user-attachments/assets/a33ff984-f92a-4667-9a8c-0ee1806c4505)
+![Screenshot 2025-07-09 113105](https://github.com/user-attachments/assets/19612c3a-8579-4e7b-ad51-ca7275ecd169)
+
+
+
+
+
+
+
